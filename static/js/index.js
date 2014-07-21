@@ -9,5 +9,5 @@
         self.find('.nav-title').css('display','none').removeClass('animated bounceIn').addClass('animated bounceOut');
         self.removeClass('selected');
     })
-
+    //hahahh
 })();
